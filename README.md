@@ -16,7 +16,7 @@ organizing to create new worlds. "
 </br>
 
 Hackthissite has several different categories of missions to complete.  
-In this particulare mission, you land on a page containing a link to a word list file, a list of scrambled words, a form to submit the requested info
+In this particular mission, you land on a page containing a link to a word list file, a list of scrambled words, a form to submit the requested info
 and the directions of what you must accomplish.
 The list of scrambled given words are located in their natural form somewhere within the wordlist.txt file.
 You must unscramble the words and submit the readable list in the same order. If it is correct you pass the level.
